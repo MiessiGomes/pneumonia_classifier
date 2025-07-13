@@ -2,6 +2,11 @@
 
 This is a computer vision project to build and train a deep learning model that classifies chest X-ray images as either "Normal" or "Pneumonia".
 
+## Dataset
+
+The dataset used is from the following link:
+**https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia**
+
 ## Key Libraries & Frameworks
 - **TensorFlow (Keras):** The primary deep learning framework.
 - **scikit-learn:** For evaluating model performance metrics (`classification_report`, `confusion_matrix`).
