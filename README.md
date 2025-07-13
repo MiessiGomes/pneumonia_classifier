@@ -117,3 +117,6 @@ curl -X POST -F "file=@/path/to/your/image.jpeg" http://127.0.0.1:8000/predict
 - **Evaluate the model:** `python evaluate.py`
 - **Predict a single image:** `python predict.py <path_to_image>`
 - **Start the API:** `uvicorn api:app --reload`
+
+## The Model
+**The generated model is not in the repository because it has exceeded the file size limit. It will be necessary to train a model and generate it to use the project.**
